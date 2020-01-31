@@ -9,5 +9,5 @@ It includes:
 * Mean Shift Clustering
 * Gaussian Blur
 
-![Input image](/in/penguin.jpg width=200)
-![Input image](/out/mag.jpg width=200)
+![Input image](/in/penguin.jpg | width=200)
+![Input image](/out/mag.jpg | width=200)
