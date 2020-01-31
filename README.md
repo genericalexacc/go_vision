@@ -10,4 +10,4 @@ It includes:
 * Gaussian Blur
 
 <img alt="Input image" src="https://raw.githubusercontent.com/genericalexacc/go_vision/master/in/penguin.jpg" width="200">
-<img alt="Output image" src="https://raw.githubusercontent.com/genericalexacc/go_vision/master/output/mag.jpg" width="200">
+<img alt="Output image" src="https://raw.githubusercontent.com/genericalexacc/go_vision/master/out/mag.jpg" width="200">
