@@ -8,3 +8,6 @@ It includes:
 * Sobel filter
 * Mean Shift Clustering
 * Gaussian Blur
+
+![Input image](/in/penguin.jpg)
+![Input image](/out/mag.jpg)
