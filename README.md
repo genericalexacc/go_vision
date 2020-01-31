@@ -9,5 +9,5 @@ It includes:
 * Mean Shift Clustering
 * Gaussian Blur
 
-![Input image](/in/penguin.jpg | width=200)
-![Input image](/out/mag.jpg | width=200)
+<img alt="Input image" src="https://raw.githubusercontent.com/genericalexacc/go_vision/master/in/penguin.jpg" width="200">
+<img alt="Output image" src="https://raw.githubusercontent.com/genericalexacc/go_vision/master/output/mag.jpg" width="200">
